@@ -25,7 +25,7 @@ Project created by <a href="https://github.com/TheBlackLion17">TheBlackLion17</a
   
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TheBlackLion17/Karnan) 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Farhandqz/JulieMwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Karnam/Karnan)
   
 ### The Hard Method
 ```js
